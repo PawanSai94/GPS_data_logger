@@ -1,0 +1,2 @@
+Connect the GPS TX wire to pin 18 (RX of Serial 1) In Arduino Mega. There are 4 Serial ports
+in Mega - Serial0,1,2,3.
